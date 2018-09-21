@@ -1,0 +1,24 @@
+{
+  "name": "treehouse-fsjs-project-06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WLeyes/treehouse-fsjs-project-06.git"
+  },
+  "keywords": [],
+  "author": "Warren Leyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WLeyes/treehouse-fsjs-project-06/issues"
+  },
+  "homepage": "https://github.com/WLeyes/treehouse-fsjs-project-06#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
