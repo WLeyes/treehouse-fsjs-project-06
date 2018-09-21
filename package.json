@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/WLeyes/treehouse-fsjs-project-06#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "pug": "^2.0.3"
   }
 }
