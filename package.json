@@ -2,9 +2,10 @@
   "name": "treehouse-fsjs-project-06",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./bin/www",
   "scripts": {
     "start": "node ./bin/www",
+    "dev": "nodemon ./bin/www // use: 'npm run dev' to start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
