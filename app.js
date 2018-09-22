@@ -3,9 +3,10 @@ const bodyParser = require('body-parser');
 
 const app = express();
 
-// app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.urlencoded({ extended: false }));
 
-const routes = require('./routes');
+const mainRoutes = require('./routes');
+const projectRoutes = require('./routes/projects');
 
 // static resources set to static path
 app.use('/static', express.static('public'));
@@ -14,11 +15,14 @@ app.use('/static', express.static('public'));
 app.set('view engine', 'pug');
 
 // path to routes
-app.use(routes);
+app.use(mainRoutes);
+app.use('/projects', projectRoutes);
 
 // catch 404 and forward to error handler
 app.use((req, res, next) => {
-  const err = new Error('Not Found');
+  const err = new Error(
+    'I am sorry our worker moths could not locate the page you were looking for!'
+    );
   err.status = 404;
   next(err);
 });

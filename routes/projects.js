@@ -3,14 +3,17 @@ const router = express.Router();
 const data  = require('../data.json');
 const { projects } = data;
 
-// Home
+// Projects
 router.get('/', (req, res, next) => {
-  res.render('index');
+  res.render('project');
 });
 
-// About
-router.get('/about', (req, res, next) => {
-  res.render('about');
+router.get('/project-:id', (req, res, next) => {
+  res.render('project');
 });
 
+// View JSON
+router.get('/api', (req, res, next) => {
+  res.json(data);
+});
 module.exports = router;
