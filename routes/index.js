@@ -5,9 +5,9 @@ const { projects } = data;
 
 // Home
 router.get('/', (req, res, next) => {
-  res.render('index');
+  res.render('index', { projects});
 });
-
+ 
 // About
 router.get('/about', (req, res, next) => {
   res.render('about');
