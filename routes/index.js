@@ -13,4 +13,14 @@ router.get('/about', (req, res, next) => {
   res.render('about');
 });
 
+// Project
+router.get('/project-:id', (req, res, next) => {
+  res.render('project', { projects, id: req.params.id});
+});
+
+// View JSON
+router.get('/api', (req, res, next) => {
+  res.json(data);
+});
+
 module.exports = router;

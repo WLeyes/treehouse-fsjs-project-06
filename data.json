@@ -2,7 +2,7 @@
   "projects": [
     {
       "id": 0,
-      "project_name": "FEWD Project 1 - Portfolio Project",
+      "project_name": "Portfolio Project",
       "description": "In this first project we covered the basics of HTML and modified the starter files byadding our own graphics, customizing the text and improving the overall look and feel of the site using html and basic css.",
       "technologies": [
         "HTML",
@@ -17,7 +17,7 @@
     },
     {
       "id": 1,
-      "project_name": "FEWD Project 2 - Responsive Layout",
+      "project_name": "Responsive Layout",
       "description": "In this project using just html and CSS I had to build the site utilizing a mobile-first approach to adapt to mobile phones, tablets and desktop computers.",
       "technologies": [
         "HTML",
@@ -32,7 +32,7 @@
     },
     {
       "id": 2,
-      "project_name": "FEWD Project 3 - Online Registration Form",
+      "project_name": "Online Registration Form",
       "description": "This project involved building a mobile-first registration form using a variety of HTML form elements, CSS and JavaScript",
       "technologies": [
         "HTML",
@@ -48,7 +48,7 @@
     },
     {
       "id": 3,
-      "project_name": "FEWD Project 4 - Interactive Photo Gallery",
+      "project_name": "Interactive Photo Gallery",
       "description": "The goal of this project was to build an interactive image galleries useing HTML, CSS, Javascript jquery for JQuery plugin to create an interactive, searchable gallery of photos.",
       "technologies": [
         "HTML",
@@ -64,7 +64,7 @@
     },
     {
       "id": 4,
-      "project_name": "FEWD Project 5 - Build a Web Style Guide",
+      "project_name": "Build a Web Style Guide",
       "description": "The primary focus of this project was SASS using the BEM methodology and SMACSS (scalable and Modular Architecture for CSS) to build a style guide for a web site.",
       "technologies": [
         "HTML",
@@ -83,7 +83,7 @@
     },
     {
       "id": 5,
-      "project_name": "FEWD Project 6 - Interactive Video Player",
+      "project_name": "Interactive Video Player",
       "description": "Using javascript I had built my own custom HTML5 media player as well as incorporating a commonly used media player library",
       "technologies": [
         "HTML",
@@ -100,7 +100,7 @@
     },
     {
       "id": 6,
-      "project_name": "FEWD Project 7 - Build a Game Show App",
+      "project_name": "Build a Game Show App",
       "description": "The game show app was an opportunity to push my javascript knowledge further where I decided to take a deep-dive and learn about javascript module pattern.",
       "technologies": [
         "HTML",
@@ -116,7 +116,7 @@
     },
     {
       "id": 7,
-      "project_name": "FEWD Project 8 - SVG Animations",
+      "project_name": "SVG Animations",
       "description": "The primary focus of this project was to modernize the user interface  by adding (various methods), styling and optimizing the provided SVG graphics.",
       "technologies": [
         "HTML",
@@ -125,12 +125,13 @@
       "live_link": "https://leyes.ca/treehouse-fewd-project-08/",
       "github_link": "https://github.com/WLeyes/treehouse-fewd-project-08",
       "image_urls": [
+        "/static/img/fewd-project-08-550x550.png",
         "/static/img/fewd-project-08.png"
       ]
     },
     {
       "id": 8,
-      "project_name": "FEWD Project 9 - Web App Dashboard",
+      "project_name": "Web App Dashboard",
       "description": "For this project I built an Interactive Web app dashboard. Durring the process I learned more about svg's, took my javascript even further by utilizing a third-party API",
       "technologies": [
         "HTML",
@@ -141,12 +142,13 @@
       "live_link": "https://leyes.ca/treehouse-fewd-project-09/",
       "github_link": "https://github.com/WLeyes/treehouse-fewd-project-09",
       "image_urls": [
+        "/static/img/fewd-project-09-550x550.png",
         "/static/img/fewd-project-09.png"
       ]
     },
     {
       "id": 9,
-      "project_name": "FEWD Project 10 - Employee Directory",
+      "project_name": "Employee Directory",
       "description": "In this project I used a third-party API to build an employee overlay in javascript with search and filter functionalities.",
       "technologies": [
         "HTML",
@@ -156,12 +158,13 @@
       "live_link": "https://leyes.ca/treehouse-fewd-project-10/",
       "github_link": "https://github.com/WLeyes/treehouse-fewd-project-10",
       "image_urls": [
+        "/static/img/fewd-project-10-550x550.png",
         "/static/img/fewd-project-10.png"
       ]
     },
     {
       "id": 10,
-      "project_name": "FEWD Project 11 - React Flickr Gallery",
+      "project_name": "React Flickr Gallery",
       "description": "Using the React I built a image gallery utilizing the Flicker API. Due to the need for private API key a live preview has not been set up.",
       "technologies": [
         "HTML",
@@ -173,12 +176,13 @@
       "live_link": "",
       "github_link": "https://github.com/WLeyes/treehouse-fewd-project-11",
       "image_urls": [
+        "/static/img/fewd-project-11-550x550.png",
         "/static/img/fewd-project-11.png"
       ]
     },
     {
       "id": 11,
-      "project_name": "FSJS Project 1 - A Random Quote Generator",
+      "project_name": "A Random Quote Generator",
       "description": "",
       "technologies": [
         "HTML",
@@ -187,11 +191,13 @@
       ],
       "live_link": "https://leyes.ca/treehouse-fsjs-project-01/",
       "github_link": "https://github.com/WLeyes/treehouse-fsjs-project-01",
-      "image_urls": []
+      "image_urls": [
+        "/static/img/fsjs-project-01-550x550.png"
+      ]
     },
     {
       "id": 12,
-      "project_name": "FSJS Project 2 - List Pagination and Filtering",
+      "project_name": "List Pagination and Filtering",
       "description": "",
       "technologies": [
         "HTML",
@@ -200,11 +206,13 @@
       ],
       "live_link": "https://leyes.ca/treehouse-fsjs-project-02/",
       "github_link": "https://github.com/WLeyes/treehouse-fsjs-project-02",
-      "image_urls": []
+      "image_urls": [
+        "/static/img/fsjs-project-02-550x550.png"
+      ]
     },
     {
       "id": 13,
-      "project_name": "FSJS Project 3 - Interactive Form",
+      "project_name": "Interactive Form",
       "description": "",
       "technologies": [
         "HTML",
@@ -213,11 +221,13 @@
       ],
       "live_link": "https://leyes.ca/treehouse-fsjs-project-03/",
       "github_link": "https://github.com/WLeyes/treehouse-fsjs-project-03",
-      "image_urls": []
+      "image_urls": [
+        "/static/img/fsjs-project-03-550x550.png"
+      ]
     },
     {
       "id": 14,
-      "project_name": "FSJS Project 4 - OOP Game Show App",
+      "project_name": "OOP Game Show App",
       "description": "",
       "technologies": [
         "HTML",
@@ -226,11 +236,13 @@
       ],
       "live_link": "https://leyes.ca/treehouse-fsjs-project-04/",
       "github_link": "https://github.com/WLeyes/treehouse-fsjs-project-04",
-      "image_urls": []
+      "image_urls": [
+        "/static/img/fsjs-project-04-550x550.png"
+      ]
     },
     {
       "id": 15,
-      "project_name": "FSJS Project 5 - Public API Requests",
+      "project_name": "Public API Requests",
       "description": "",
       "technologies": [
         "HTML",
@@ -239,7 +251,54 @@
       ],
       "live_link": "https://leyes.ca/treehouse-fsjs-project-05/",
       "github_link": "https://github.com/WLeyes/treehouse-fsjs-project-05",
-      "image_urls": []
+      "image_urls": [
+        "/static/img/fsjs-project-05-550x550.png"
+      ]
+    },
+    {
+      "id": 16,
+      "project_name": "Project",
+      "description": "",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "live_link": "https://leyes.ca/treehouse-fsjs-project-05/",
+      "github_link": "https://github.com/WLeyes/treehouse-fsjs-project-05",
+      "image_urls": [
+        "/static/img/project-01.png"
+      ]
+    },
+    {
+      "id": 17,
+      "project_name": "Project",
+      "description": "",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "live_link": "https://leyes.ca/treehouse-fsjs-project-05/",
+      "github_link": "https://github.com/WLeyes/treehouse-fsjs-project-05",
+      "image_urls": [
+        "/static/img/project-02.png"
+      ]
+    },
+    {
+      "id": 18,
+      "project_name": "Project",
+      "description": "",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "live_link": "https://leyes.ca/treehouse-fsjs-project-05/",
+      "github_link": "https://github.com/WLeyes/treehouse-fsjs-project-05",
+      "image_urls": [
+        "/static/img/project-03.png"
+      ]
     }
   ]
 }
