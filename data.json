@@ -14,7 +14,6 @@
         "fewd-project-01-550x550.png",
         "fewd-project-01-1200x550a.png",
         "fewd-project-01-1200x550b.png",
-        "fewd-project-01-1200x550c.png",
         "fewd-project-01-1200x550d.png"
       ]
     },
@@ -32,8 +31,7 @@
         "fewd-project-02-550x550.png",
         "fewd-project-02-1200x550a.png",
         "fewd-project-02-1200x550b.png",
-        "fewd-project-02-1200x550c.png",
-        "fewd-project-02-1200x550d.png"
+        "fewd-project-02-1200x550c.png"
       ]
     },
     {
@@ -51,8 +49,7 @@
         "fewd-project-03-550x550.png",
         "fewd-project-03-1200x550a.png",
         "fewd-project-03-1200x550b.png",
-        "fewd-project-03-1200x550c.png",
-        "fewd-project-03-1200x550d.png"
+        "fewd-project-03-1200x550c.png"
       ]
     },
     {
@@ -68,10 +65,8 @@
       "github_link": "https://github.com/WLeyes/treehouse-fewd-project-04",
       "image_urls": [
         "fewd-project-04-550x550.png",
-        "fewd-project-04-1200x550a.png",
         "fewd-project-04-1200x550b.png",
         "fewd-project-04-1200x550c.png",
-        "fewd-project-04-1200x550d.png",
         "fewd-project-04-1200x550e.png"
       ]
     },
@@ -93,12 +88,7 @@
         "fewd-project-05-550x550.png",
         "fewd-project-05-1200x550a.png",
         "fewd-project-05-1200x550b.png",
-        "fewd-project-05-1200x550c.png",
-        "fewd-project-05-1200x550d.png",
-        "fewd-project-05-1200x550e.png",
-        "fewd-project-05-1200x550f.png",
-        "fewd-project-05-1200x550g.png",
-        "fewd-project-05-1200x550h.png"
+        "fewd-project-05-1200x550c.png"
       ]
     },
     {
@@ -116,11 +106,8 @@
       "image_urls": [
         "fewd-project-06-550x550.png",
         "fewd-project-06-1200x550a.png",
-        "fewd-project-06-1200x550b.png",
-        "fewd-project-06-1200x550c.png",
         "fewd-project-06-1200x550d.png",
-        "fewd-project-06-1200x550e.png",
-        "fewd-project-06-1200x550f.png"
+        "fewd-project-06-1200x550e.png"
       ]
     },
     {
@@ -138,7 +125,6 @@
         "fewd-project-07-550x550.png",
         "fewd-project-07-1200x550a.png",
         "fewd-project-07-1200x550b.png",
-        "fewd-project-07-1200x550c.png",
         "fewd-project-07-1200x550d.png"
       ]
     },
@@ -154,11 +140,9 @@
       "github_link": "https://github.com/WLeyes/treehouse-fewd-project-08",
       "image_urls": [
         "fewd-project-08-550x550.png",
-        "fewd-project-08-1200x550a.png",
         "fewd-project-08-1200x550b.png",
         "fewd-project-08-1200x550c.png",
-        "fewd-project-08-1200x550d.png",
-        "fewd-project-08-1200x550e.png"
+        "fewd-project-08-1200x550d.png"
       ]
     },
     {
@@ -175,16 +159,9 @@
       "github_link": "https://github.com/WLeyes/treehouse-fewd-project-09",
       "image_urls": [
         "fewd-project-09-550x550.png",
-        "fewd-project-09-1200x550a.png",
-        "fewd-project-09-1200x550b.png",
         "fewd-project-09-1200x550c.png",
-        "fewd-project-09-1200x550d.png",
-        "fewd-project-09-1200x550e.png",
-        "fewd-project-09-1200x550f.png",
         "fewd-project-09-1200x550g.png",
-        "fewd-project-09-1200x550h.png",
-        "fewd-project-09-1200x550i.png",
-        "fewd-project-09-1200x550j.png"
+        "fewd-project-09-1200x550h.png"
       ]
     },
     {
@@ -202,8 +179,7 @@
         "fewd-project-10-550x550.png",
         "fewd-project-10-1200x550a.png",
         "fewd-project-10-1200x550b.png",
-        "fewd-project-10-1200x550c.png",
-        "fewd-project-10-1200x550d.png"
+        "fewd-project-10-1200x550c.png"
       ]
     },
     {
@@ -221,11 +197,33 @@
       "github_link": "https://github.com/WLeyes/treehouse-fewd-project-11",
       "image_urls": [
         "fewd-project-11-550x550.png",
-        "fewd-project-11.png"
+        "fewd-project-11-1200x550c.png",
+        "fewd-project-11-1200x550b.png",
+        "fewd-project-11-1200x550a.png"
       ]
     },
     {
       "id": 11,
+      "project_name": "React Profile",
+      "description": "Front-end capstone project",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "REACT",
+        "API",
+        "JavaScript"
+      ],
+      "live_link": "https://leyes.ca",
+      "github_link": "https://github.com/WLeyes/treehouse-fewd-project-12",
+      "image_urls": [
+        "fewd-project-12-550x550.png",
+        "fewd-project-12-1200x550a.png",
+        "fewd-project-12-1200x550b.png",
+        "fewd-project-12-1200x550c.png"
+      ]
+    },
+    {
+      "id": 12,
       "project_name": "A Random Quote Generator",
       "description": "",
       "technologies": [
@@ -236,12 +234,15 @@
       "live_link": "https://leyes.ca/treehouse-fsjs-project-01/",
       "github_link": "https://github.com/WLeyes/treehouse-fsjs-project-01",
       "image_urls": [
-        "fsjs-project-01-550x550.png"
+        "fsjs-project-01-550x550.png",
+        "fsjs-project-01-1200x550a.png",
+        "fsjs-project-01-1200x550b.png",
+        "fsjs-project-01-1200x550c.png"
       ]
     },
     {
-      "id": 12,
-      "project_name": "List Pagination and Filtering",
+      "id": 13,
+      "project_name": "Pagination and Filtering",
       "description": "",
       "technologies": [
         "HTML",
@@ -251,11 +252,14 @@
       "live_link": "https://leyes.ca/treehouse-fsjs-project-02/",
       "github_link": "https://github.com/WLeyes/treehouse-fsjs-project-02",
       "image_urls": [
-        "fsjs-project-02-550x550.png"
+        "fsjs-project-02-550x550.png",
+        "fsjs-project-02-1200x550a.png",
+        "fsjs-project-02-1200x550b.png",
+        "fsjs-project-02-1200x550c.png"
       ]
     },
     {
-      "id": 13,
+      "id": 14,
       "project_name": "Interactive Form",
       "description": "",
       "technologies": [
@@ -266,11 +270,14 @@
       "live_link": "https://leyes.ca/treehouse-fsjs-project-03/",
       "github_link": "https://github.com/WLeyes/treehouse-fsjs-project-03",
       "image_urls": [
-        "fsjs-project-03-550x550.png"
+        "fsjs-project-03-550x550.png",
+        "fsjs-project-03-1200x550a.png",
+        "fsjs-project-03-1200x550h.png",
+        "fsjs-project-03-1200x550j.png"
       ]
     },
     {
-      "id": 14,
+      "id": 15,
       "project_name": "OOP Game Show App",
       "description": "",
       "technologies": [
@@ -281,11 +288,14 @@
       "live_link": "https://leyes.ca/treehouse-fsjs-project-04/",
       "github_link": "https://github.com/WLeyes/treehouse-fsjs-project-04",
       "image_urls": [
-        "fsjs-project-04-550x550.png"
+        "fsjs-project-04-550x550.png",
+        "fsjs-project-04-1200x550b.png",
+        "fsjs-project-04-1200x550c.png",
+        "fsjs-project-04-1200x550d.png"
       ]
     },
     {
-      "id": 15,
+      "id": 16,
       "project_name": "Public API Requests",
       "description": "",
       "technologies": [
@@ -296,27 +306,15 @@
       "live_link": "https://leyes.ca/treehouse-fsjs-project-05/",
       "github_link": "https://github.com/WLeyes/treehouse-fsjs-project-05",
       "image_urls": [
-        "fsjs-project-05-550x550.png"
-      ]
-    },
-    {
-      "id": 16,
-      "project_name": "Project",
-      "description": "",
-      "technologies": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ],
-      "live_link": "https://leyes.ca/treehouse-fsjs-project-05/",
-      "github_link": "https://github.com/WLeyes/treehouse-fsjs-project-05",
-      "image_urls": [
-        "project-01.png"
+        "fsjs-project-05-550x550.png",
+        "fsjs-project-05-1200x550a.png",
+        "fsjs-project-05-1200x550b.png",
+        "fsjs-project-05-1200x550c.png"
       ]
     },
     {
       "id": 17,
-      "project_name": "Project",
+      "project_name": "Calorie Tracking App",
       "description": "",
       "technologies": [
         "HTML",
@@ -326,13 +324,15 @@
       "live_link": "https://leyes.ca/treehouse-fsjs-project-05/",
       "github_link": "https://github.com/WLeyes/treehouse-fsjs-project-05",
       "image_urls": [
-        "project-02.png"
+        "project-01-550x550.png",
+        "project-01-1200x550a.png",
+        "project-01-1200x550b.png"
       ]
     },
     {
       "id": 18,
-      "project_name": "Project",
-      "description": "",
+      "project_name": "Weather API",
+      "description": "A simple weather API project to further my knowlege on utilizing API's",
       "technologies": [
         "HTML",
         "CSS",
@@ -341,7 +341,46 @@
       "live_link": "https://leyes.ca/treehouse-fsjs-project-05/",
       "github_link": "https://github.com/WLeyes/treehouse-fsjs-project-05",
       "image_urls": [
-        "project-03.png"
+        "project-02-550x550.png",
+        "project-02-1200x550a.png",
+        "project-02-1200x550b.png",
+        "project-02-1200x550c.png"
+      ]
+    },
+    {
+      "id": 19,
+      "project_name": "React project",
+      "description": "This is a project that I have been working on while learning the React framework.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "live_link": "http://react-venue.surge.sh/",
+      "github_link": "https://github.com/ForwardThinkers/react-venue",
+      "image_urls": [
+        "project-03-550x550.png",
+        "project-03-1200x550a.png",
+        "project-03-1200x550b.png",
+        "project-03-1200x550c.png"
+      ]
+    },
+    {
+      "id": 20,
+      "project_name": "React Project",
+      "description": "This is a current work in progress",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "live_link": "",
+      "github_link": "https://github.com/ForwardThinkers/react-soccer-app",
+      "image_urls": [
+        "project-04-550x550.png",
+        "project-04-1200x550a.png",
+        "project-04-1200x550b.png",
+        "project-04-1200x550c.png"
       ]
     }
   ]

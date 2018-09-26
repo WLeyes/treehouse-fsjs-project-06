@@ -19,7 +19,7 @@ app.use(mainRoutes);
 // catch 404 and forward to error handler
 app.use((req, res, next) => {
   const err = new Error(
-    'I am sorry our worker moths could not locate the page you were looking for!'
+    'I am sorry the page you are looking for could not be found!'
     );
   err.status = 404;
   next(err);
