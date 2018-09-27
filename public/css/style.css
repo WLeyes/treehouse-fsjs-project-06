@@ -129,11 +129,6 @@ a:hover {
   color: #222;
 }
 
-.cell {
-  border: 2px solid rgba(10, 10, 10, 0.2);
-  border-radius: 8px;
-}
-
 .thumbnail {
   border-radius: 8px;
 }
@@ -142,8 +137,14 @@ a:hover {
   box-shadow: none;
 }
 
+li:last-of-type {
+  margin-bottom: 1em;
+}
+
 .portfolio-index .cell {
   margin-bottom: 15px;
+  border: 2px solid rgba(10, 10, 10, 0.2);
+  border-radius: 8px;
   -webkit-box-shadow: 11px 10px 25px -4px rgba(0, 0, 0, 0.63);
   -moz-box-shadow: 11px 10px 25px -4px rgba(0, 0, 0, 0.63);
   box-shadow: 11px 10px 25px -4px rgba(0, 0, 0, 0.63);
