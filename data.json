@@ -205,7 +205,7 @@
     {
       "id": 11,
       "project_name": "React Profile",
-      "description": "Front-end capstone project",
+      "description": "Front-end capstone project built using React",
       "technologies": [
         "HTML",
         "CSS",
@@ -225,7 +225,7 @@
     {
       "id": 12,
       "project_name": "A Random Quote Generator",
-      "description": "",
+      "description": "a basic random quote generator built using html, css and JavaScipt",
       "technologies": [
         "HTML",
         "CSS",
@@ -243,7 +243,7 @@
     {
       "id": 13,
       "project_name": "Pagination and Filtering",
-      "description": "",
+      "description": "Using Javascript create pagination links with search filtering",
       "technologies": [
         "HTML",
         "CSS",
@@ -261,11 +261,11 @@
     {
       "id": 14,
       "project_name": "Interactive Form",
-      "description": "",
+      "description": "In this project I built an interactive form with basic form validations",
       "technologies": [
         "HTML",
         "CSS",
-        "JavaScript"
+        "JQuery"
       ],
       "live_link": "https://leyes.ca/treehouse-fsjs-project-03/",
       "github_link": "https://github.com/WLeyes/treehouse-fsjs-project-03",
@@ -279,7 +279,7 @@
     {
       "id": 15,
       "project_name": "OOP Game Show App",
-      "description": "",
+      "description": "This project was built using Javascript classes.",
       "technologies": [
         "HTML",
         "CSS",
@@ -297,7 +297,7 @@
     {
       "id": 16,
       "project_name": "Public API Requests",
-      "description": "",
+      "description": "In this project I used a third-party API to build an employee overlay in javascript with search and filter functionalities.",
       "technologies": [
         "HTML",
         "CSS",

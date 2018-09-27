@@ -129,6 +129,19 @@ a:hover {
   color: #222;
 }
 
+.cell {
+  border: 2px solid rgba(10, 10, 10, 0.2);
+  border-radius: 8px;
+}
+
+.thumbnail {
+  border-radius: 8px;
+}
+
+.thumbnail {
+  box-shadow: none;
+}
+
 .portfolio-index .cell {
   margin-bottom: 15px;
   -webkit-box-shadow: 11px 10px 25px -4px rgba(0, 0, 0, 0.63);
